@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Danh sách trong HTML</title>
+</head>
+<body>
+    <h1>Những món ăn yêu thích của tôi</h1>
+    <ul>
+        <li>Phở bò</li>
+        <li>Bún chả</li>
+        <li>Cơm tấm</li>
+        <li>Bánh mì</li>
+        <li>Lẩu thái</li>
+    </ul>
+
+    <h2>Các bước chuẩn bị cho một chuyến du lịch</h2>
+    <ol>
+        <li>Xác định địa điểm và thời gian đi</li>
+        <li>Đặt vé máy bay hoặc phương tiện di chuyển</li>
+        <li>Đặt phòng khách sạn</li>
+        <li>Lên lịch trình chi tiết các điểm tham quan</li>
+        <li>Chuẩn bị hành lý, giấy tờ tùy thân và tài chính</li>
+    </ol>
+</body>
+</html>
